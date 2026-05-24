@@ -23,3 +23,28 @@
 # 凝集配色調整関数　　Cluster_Renumber_for_continuity()関数　のRスクリプト（内部定義関数） をダウンロードしていただけます。
 
 -Cluster_Renumber_for_continuity.R
+
+
+
+
+This is a repository for sharing articles by Kimura published in the statistics and information journal "ESTRELA." We have obtained permission from the Statistical Information Research and Development Center (a public interest incorporated foundation), the editor and publisher of "ESTRELA," to publish these articles.
+
+- Kimura, Atsushi & Takabe, Isao (2021), "Regional Differences in Food Preferences in Japan as Seen from Household Consumption Data: Considering Collaboration with Humanities and Social Sciences Knowledge," ESTRELA (No. 324), March 2021, pp. 36-42, Statistical Information Research and Development Center
+
+- Kimura, Atsushi (2022a), "Correct Method of Ward Method Analysis Using R's hclust Function: Part 1: Characteristics of Ward's Method and Verification Experiments," ESTRELA (No. 337), April 2022, pp. 22-27, Statistical Information Research and Development Center
+
+- Kimura, Atsushi (2022b), "Correct Method of Ward Method Analysis Using R's hclust Function: Part 2: Implementing Ward (1963) in R," ESTRELA (No. 338), May 2022, pp. 18-23, Statistical Information Research and Development Center
+
+- Kimura, Atsushi (2023a), "A New Interpretation Method for Hierarchical Cluster Analysis Results: Proposal of the 'Variable-Specific Contribution Rate Calculation Method (LIV Method)' - Application to Cluster Analysis Results of the Household Survey," ESTRELA (No. 347), February 2023, pp. 20-25, Statistical Information Research and Development Center
+
+- Atsushi Kimura (2023b), "Comparing Cluster Analysis Results of Different Data - Part 1: 'Minimum Distance Between Cluster Centrifugal Centers'," ESTRELA (No. 350), May 2023, pp. 26-31, Statistical Information Research and Development Center
+
+- Atsushi Kimura (2023c), "Comparing Cluster Analysis Results of Different Data - Part 2: Alignment of Similar Clusters: Two Collective Identification Methods and R Language Implementation," ESTRELA (No. 352), July 2023, pp. 28-33, Statistical Information Research and Development Center
+
+- Atsushi Kimura (2024a), "The Impact of the COVID-19 Pandemic, etc., as Seen from the Survey on Time Use and Leisure Activities - Part 1: Impact from the Perspective of Cluster Dissimilarity," ESTRELA (No. 367), October 2024, pp. 30-36, Statistical Information Research and Development Center
+
+- Atsushi Kimura (2024b), "The Impact of the COVID-19 Pandemic, etc., as Seen from the Survey on Time Use and Leisure Activities - Part 2: Impact from the Perspective of Cluster Size," ESTRELA (No. 368), November 2024, pp. 28-33, Statistical Information Research and Development Center
+
+You can download the R script (internally defined function) for the aggregation color adjustment function, Cluster_Renumber_for_continuity().
+
+- Cluster_Renumber_for_continuity.R
